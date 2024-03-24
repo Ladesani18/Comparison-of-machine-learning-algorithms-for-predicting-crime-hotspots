@@ -1,0 +1,39 @@
+Comparison of Machine Learning Algorithms for Predicting Crime Hotspots
+
+
+Prediction of crime hotspots, machine learning, LSTM, built environment.
+
+
+Crime_Hotspots
+
+crime_hotspots
+
+theft,robbery,snatching,murder,car stolen,Sexual assault,assault,burglary,Bomp threats
+Gambling,fraud,public indecency,looting,
+
+results -- Moderate(upto 59),High(60),very high(80)
+
+
+City
+names
+population
+Hotspot_Name
+Street_name
+Address
+Crime_Type
+Number_Of_Crimes
+Crime_Evidence
+Action_Taken
+Crime_DateTime
+
+
+
+IEEE Access on Machine Learning,Volume:8,Issue Date:02.October.2020
+
+
+
+
+
+
+
+
